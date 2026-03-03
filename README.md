@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Tianyu 👋
 
-<!--
-**tianyuguan-dev/tianyuguan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Software Engineer with 7+ years of experience building scalable, production-grade systems.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Java, Spring Boot
+- Microservices, Distributed Systems
+- PostgreSQL, MySQL, Redis
+- Docker, Kubernetes
+- AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📍 Location
+New Zealand
+
+## 📫 Connect
+- LinkedIn: https://linkedin.com/in/tianyuguan
